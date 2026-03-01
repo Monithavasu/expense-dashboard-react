@@ -51,6 +51,10 @@ const ExpenseForm = ({ addExpense }) => {
   <option value="Travel">Travel</option>
   <option value="Shopping">Shopping</option>
   <option value="Bills">Bills</option>
+  <option value="Bills">Education</option>
+  <option value="Bills">Entertainment</option>
+  <option value="Bills">HouseHold</option>
+  <option value="Bills">Savings</option>
 </select>
 
       <button className="w-full bg-blue-600 text-white p-3 rounded-lg hover:bg-blue-700">

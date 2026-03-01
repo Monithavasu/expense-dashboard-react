@@ -1,5 +1,6 @@
 import { useState } from "react";
 import ExpenseForm from "./ExpenseForm";
+import ExpenseCard from "./ExpenseCard";
 
 const ExpenseDashboard = () => {
   const [expenses, setExpenses] = useState([]);
